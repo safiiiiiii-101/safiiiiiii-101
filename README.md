@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @safiiiiiii-101
-- 👀 I’m interested in basketball
+- 👀 I’m interested in coding, machine learning, automation
 - 🌱 I’m currently learning AI at FAST
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me safiurrehman636@gmail.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: IM COOL
+- 💬 Ask me about: Python, AI basics, Algorithms
+- AI student exploring AI, algorithms, and intelligent systems
+- Building agents that think before they act 🤖
 
 <!---
 safiiiiiii-101/safiiiiiii-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-MY NAME IS SAFI 
-NETFLX SHOWS = WITCHER MINDHUNTER DEADPOOL
+
